@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4b44b49ceeb0f968d060a1cc",
+  "owner": "qtygwkgvm",
+  "repo": "page-228db337b1fb8b32a17cc9bd",
+  "title": "太阳网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "228db337b1fb8b32a17cc9bd",
+      "a": "太阳网络",
+      "b": "稳定全球clash加速器",
+      "entity": "太阳网络",
+      "brand": "太阳网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "78e7541de16342ce694b1d1f730fc24003b6447bbc63d657292f6efee6119ef1",
+      "content": {
+        "primary_entity": "太阳网络",
+        "keyword1": "太阳网络",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "太阳网络支持主流 Clash 客户端，按设备选择对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用太阳网络。",
+          "AI_CLOSING_TITLE": "开始使用太阳网络",
+          "AI_DESCRIPTION": "，太阳网络提供基础版、旗舰版与团队版三档套餐，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台逐级提升。旗舰版包含 IPLC 专线节点与流媒体解锁，适合对游戏延迟和视频体验有要求的用户；团队版面向多设备与定制路由需求。按年付可节省两个月费用，配合 Clash 客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量和订阅周期三个角度快速了解太阳网络。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版 300GB 支持 5 台，团队版 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "同一账号可在手机、电脑和路由器上使用，按设备需求选择对应套餐档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付仅需 ¥150/年、¥350/年 或 ¥850/年，相当于省下两个月费用。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备规划",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按选择服务、确认适配、配置订阅三步开始使用太阳网络。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "太阳网络面向需要稳定连接的用户，提供 Clash 订阅式加速服务。基础版、旗舰版和团队版覆盖从个人到多设备场景，按流量与设备数量灵活选择，配合主流客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "稳定连接，按需选择套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案节省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350 和 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与所选 Clash 客户端版本匹配，路由器用户留意固件支持情况。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，按照客户端文档完成节点选择与代理配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "太阳网络套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。若手机、平板、电脑同时使用，建议按实际在线数量选择对应档位。",
+          "AI_FAQ_ANSWER_2": "三个套餐流量分别为每月 100GB、300GB 与 1000GB。日常浏览与视频需求可选基础版，多设备高频使用建议旗舰版及以上。",
+          "AI_FAQ_ANSWER_3": "年付价格为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更省。长期使用可选年付方案。",
+          "AI_FAQ_ANSWER_4": "在设备对应的客户端中导入订阅链接即可。不同系统操作略有差异，参照对应客户端文档中的导入说明完成配置。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点，适合对延迟和带宽敏感的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量、流量与付费周期。",
+          "AI_FAQ_QUESTION_1": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量额度怎么选？",
+          "AI_FAQ_QUESTION_3": "年付方案比月付划算吗？",
+          "AI_FAQ_QUESTION_4": "订阅配置在哪里完成？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些使用需求？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mesa023c09jc69a.com",
+    "host": "xn--mesa023c09jc69a.com"
+  },
+  "file_hashes": {
+    "index.html": "d2ca7b02d9d95e3cc9a216bbe5a2dd809f239e7ed6aeaac4fee729d9a69c3fa3",
+    "sitemap.xml": "00966590490cf8f7b4422c0bf22f02445ffacf7cb2d729bfc72907ff02476495",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f0f803a581202e57ec72ca6085ce0b07f9742d845cdcb8735731137e683c4623",
+    "robots.txt": "1c79be0002838e288a9e27f1d74899d4717340ff8a5d323b09b34a33fdc445ef",
+    "f1e53e1748113f5b6d783c1ee944e5eb.txt": "00f824981721f7ab64b993a562423fc7805ab46c37b8aa66fac58f4d2c1aa15d"
+  },
+  "revision": "0dfadbb8a0d5c140368550cce9fc09d376716964339372819da423f85db3c77e"
+}
